@@ -1,6 +1,6 @@
 using System;
 
-class GradeCAlculator
+class GradeCalculator
 {
     static void main()
     {
